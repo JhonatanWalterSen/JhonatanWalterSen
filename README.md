@@ -1,20 +1,13 @@
-### Hi there 👋, my name is < Jhonatan />
+<h1 align="center"> Hi there 👋, my name is < Jhonatan /> </h1> 
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-
-#### I am GitHub Readme Generator's creator
-
-<img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" alt="Markdown Monster icon pikachu" />
+<img align="center" src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" alt="Markdown Monster icon pikachu" width="100" />
 
 
-I'm currently working on My Blog, Github Projects
+<p align="center" > 🔭 I'm currently working on My Blog, Github Projects</p>
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Skills: </h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
