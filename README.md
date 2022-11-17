@@ -4,7 +4,7 @@
 
 #### I am GitHub Readme Generator's creator
 
-<img src="(https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" alt="Markdown Monster icon pikachu" />
+<img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" alt="Markdown Monster icon pikachu" />
 
 
 I'm currently working on My Blog, Github Projects
