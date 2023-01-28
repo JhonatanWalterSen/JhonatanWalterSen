@@ -13,11 +13,13 @@
   <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-React-F7DF1E?style=flat-square&logo=React&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/-JavaScript-61dbfb?style=flat-square&logo=react&logoColor=white">
   
   <img alt="React" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  
+    https://img.shields.io/github/pipenv/locked/python-version/3/1?color=white&logo=python
+  https://img.shields.io/github/pipenv/locked/python-version/3/1?color=white&logo=react
   <samp>
      🔭 I'm currently working in Projects
   </samp>
