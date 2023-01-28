@@ -18,8 +18,8 @@
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-    <img alt="Spark" src="https://img.shields.io/badge/-Spark-E42682A?style=flat-square&logo=apachespark&logoColor=white">
-    <img alt="Jira" src="https://img.shields.io/badge/-Python-0146b3?style=flat-square&logo=Python&logoColor=white">
+    <img alt="Spark" src="https://img.shields.io/badge/-Spark-important?style=flat-square&logo=apachespark&logoColor=white">
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0146b3?style=flat-square&logo=Jira&logoColor=white">
     <img alt="Github" src="https://img.shields.io/badge/-Jira-6cc644?style=flat-square&logo=Jira&logoColor=white">
     <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0055CC?style=flat-square&logo=Bitbucket&logoColor=white">
 </p>
