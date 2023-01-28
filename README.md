@@ -1,9 +1,17 @@
-<h1 align="center"> Hi there 👋, my name is < Jhonatan /> </h1> 
-<h3 align="center">A passionate frontend developer from Perú</h3>
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" alt="Markdown Monster icon pikachu" width="250" />
+  <samp>
+    Hi there 👋, my name is <b> < Jhonatan /> </b>
+    <br>
+    「 A passionate Systems Engineer from Perú 」
+  </samp>
 </p>
 
+
+<img alt="Sencillo" src="https://img.shields.io/badge/-Sencillo-f8cd50?style=flat-square&logo=Plex&logoColor=white">
+<br>
+
+<img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 
 <p align="center" > 🔭 I'm currently working on My Blog, Github Projects</p>
 
