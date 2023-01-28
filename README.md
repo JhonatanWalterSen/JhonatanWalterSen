@@ -35,6 +35,14 @@
 <br>
 
 <p align="center">
+    <img alt="Database" src="https://img.shields.io/badge/-DataBase-34567C?style=flat-square&logo=adminer&logoColor=white">
+    <img alt="Node Js" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2d20?style=flat-square&logo=laravel&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+<br>
+
+<p align="center">
   <samp>
      🔭 I'm currently working in Projects
   </samp>
