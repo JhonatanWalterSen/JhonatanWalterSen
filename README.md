@@ -8,7 +8,7 @@
 
 <p align="center">
   <img alt="Sencillo" src="https://img.shields.io/badge/-Sencillo-f8cd50?style=flat-square&logo=Plex&logoColor=white">
-   <img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white">
+  <img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white">
   <br>
   <samp>
      「 Skills 」
@@ -47,3 +47,4 @@
      🔭 I'm currently working in Projects
   </samp>
 </p>
+ <!-- https://simpleicons.org (Icons)-->
