@@ -6,14 +6,23 @@
   </samp>
 </p>
 
+<p align="center">
+  <img alt="Sencillo" src="https://img.shields.io/badge/-Sencillo-f8cd50?style=flat-square&logo=Plex&logoColor=white">
+  <br>
 
-<img alt="Sencillo" src="https://img.shields.io/badge/-Sencillo-f8cd50?style=flat-square&logo=Plex&logoColor=white">
-<br>
+  <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-React-F7DF1E?style=flat-square&logo=React&logoColor=white">
+  
+  <img alt="React" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  
+  <samp>
+     🔭 I'm currently working in Projects
+  </samp>
+</p>
 
-<img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-
-<p align="center" > 🔭 I'm currently working on My Blog, Github Projects</p>
 
 
 <h3 align="center">Skills: </h3>
