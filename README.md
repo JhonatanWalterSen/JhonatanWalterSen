@@ -33,8 +33,9 @@
     <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=Vuedotjs&logoColor=white">
 </p>
 <br>
-  
-  <br>
+
+<p align="center">
   <samp>
      🔭 I'm currently working in Projects
   </samp>
+</p>
